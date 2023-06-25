@@ -2,7 +2,9 @@ import React from 'react';
 
 function MovieInformation() {
   return (
-    <div />
+    <div>
+      Information de film
+    </div>
   );
 }
 

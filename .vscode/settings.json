@@ -1,2 +1,11 @@
 {
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+
+    "files.exclude": {
+        "**/.git": false,
+    },
 }
